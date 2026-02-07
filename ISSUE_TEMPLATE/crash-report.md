@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Mod Version**
-LoadMyChunks-LOADMYCHUNKSVER-MINECRAFTVER
+MODNAME-MODVER-MINECRAFTVER
 
 **What were you doing before the crash happened?**
 
