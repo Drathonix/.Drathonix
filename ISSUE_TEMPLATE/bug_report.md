@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Mod Version**
-LoadMyChunks-LOADMYCHUNKSVER-MINECRAFTVER
+MODNAME-MODVER-MINECRAFTVER
 
 **Describe the bug**
 A clear and concise description of what the bug is.
